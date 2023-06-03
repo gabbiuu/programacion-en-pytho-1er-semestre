@@ -7,7 +7,7 @@ for i in range(numero) :
     acum = acum + impar 
     if i == (numero-1):
         break 
-    impar = impar + 2
+    impar =  impar + 2
     print(impar)
 print(f"el cubo de {numero} es: {acum}")
 

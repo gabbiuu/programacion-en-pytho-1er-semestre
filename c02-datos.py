@@ -96,7 +96,7 @@ print(grupo1[0])
 #muyestra el indice del primer elemento buscado
 print("Indice del elemento:", grupo1.index ("Daniel"))
 
-#Las duplas no mutan
+#Las tuplas no mutan
 #grupo1[0] = "Constanza"
 #print(grupo1)#
 
