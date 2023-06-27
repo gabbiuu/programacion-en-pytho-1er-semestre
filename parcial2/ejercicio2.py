@@ -1,3 +1,5 @@
+
+
 veces = int(input("¿cuántas notas ingresará?: "))
 lista = []
 
